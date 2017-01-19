@@ -1,0 +1,23 @@
+html {
+    background-image: linear-gradient(#bfbfbf, #595959);
+}
+
+h1 {
+    font-size: 5em;
+    color: darkorchid;
+    text-align: center;
+    font-stretch: extra-expanded;
+}
+
+h2 {
+    font-size: 3em;
+    color:darkviolet;
+    text-align: center;
+    font-stretch: semi-expanded;
+}
+
+img {
+    max-width: 75%;
+    height: auto;
+    align-content: center;
+}
